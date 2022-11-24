@@ -1,0 +1,79 @@
+/* General */
+body{
+background-color: rgb(6, 6, 49);
+}
+footer img{
+height: 50pt;
+width: 70pt;
+}
+header img{
+    height: 50pt;
+    width: 70pt;
+}
+.discografia{
+    padding: 3%;
+    color: aliceblue;
+}
+.index{
+    padding: 3%;
+    color: aliceblue;
+}
+.shows{
+    padding: 3%;
+    color: aliceblue;
+}
+.galeria{
+    padding: 3%;
+    color: aliceblue;
+}
+.contacto{
+    padding: 3%;
+    color: aliceblue;
+}
+/* Index */
+.indexbg {
+    background-image:url(https://www.lavoz.com.ar/resizer/HmWqKM9aGnT9v_dZYxm83lP_uTk=/980x640/smart/cloudfront-us-east-1.images.arcpublishing.com/grupoclarin/FAS2R3COHBDWLJCKP73R7323GQ.jpg) ;
+    height: 1000px;
+    background-attachment: fixed; 
+    background-position: center; 
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.indexFont {
+    font-style: italic;
+    color: rgb(8, 8, 62);
+    text-align: center;
+    font-size: 5pt;
+}
+strong{
+    font-style: italic;
+    color: aliceblue;
+    text-align: center;
+}
+/* Contacto */
+
+/* Discografia */
+
+/* Galeria */
+
+/* Shows */
+.estadio1 {
+    width: 350px;
+    height: 300px;
+}
+.estadio2 {
+    width: 350px;
+    height: 300px;
+}
+.estadio3 {
+    width: 350px;
+    height: 300px;
+}
+.estadio4 {
+    width: 350px;
+    height: 300px;
+}
+.estadio5 {
+    width: 350px;
+    height: 300px;
+}
